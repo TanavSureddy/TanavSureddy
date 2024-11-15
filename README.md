@@ -2,8 +2,8 @@
 <h3 align="center">A 19 year old learning how to build.</h3>
 
 
-<h3 align="left">📍What I'm working on: :</h3>
-- 🔭 I’m currently working on [GlassBetter](https://www.youtube.com) a site that allows people to more easily get frequently asked interview questions from Glassdoor entries.
+<h3 align="left">📍What I'm working on: </h3>
+- 🔭 I’m currently working on [GlassBetter](https://x.com/tanavsureddy) a site that allows people to more easily get frequently asked interview questions from Glassdoor entries.
 
 <h3 align="left">🙋‍♂️Connect with me:</h3>
 <p align="left">
