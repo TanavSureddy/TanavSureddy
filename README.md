@@ -3,8 +3,7 @@
 
 
 <h3 align="left">📍What I'm working on: </h3>
-- 🔭 I’m currently working on [GlassBetter](https://x.com/tanavsureddy), a site that allows people to more easily get frequently asked interview questions from Glassdoor entries.
-- 🔭 I’m currently working on [GlassBetter](https://x.com/tanavsureddy)
+- 🔭 I’m currently working on [GlassBetter](https:github.com/TanavSureddy/GlassBetter), a site that allows people to more easily get frequently asked interview questions from Glassdoor entries.
 
 
 <h3 align="left">🙋‍♂️Connect with me:</h3>
