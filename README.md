@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tanav!</h1>
 <h3 align="center">A 19 year old learning how to build.</h3>
 
-- 🔭 I’m currently working on [GlassBetter](www.youtube.com) a site that.
+- 🔭 I’m currently working on [GlassBetter](www.youtube.com) a site that allows people to more easily get frequently asked interview questions from Glassdoor entries.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
