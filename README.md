@@ -1,3 +1,6 @@
+![banner](https://github.com/TanavSureddy/TanavSureddy/blob/main/banner.png)
+
+
 <h1 align="center">Hi 👋, I'm Tanav!</h1>
 <h3 align="center">A 19 year old learning how to build.</h3>
 
