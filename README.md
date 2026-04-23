@@ -1,6 +1,6 @@
 ![banner](https://github.com/TanavSureddy/TanavSureddy/blob/main/banner.png)
 
-<h3 align="center">I'm a 20 year old learning how to build.</h3>
+<h3 align="center">I'm a 21 year old learning how to build.</h3>
 
 <h3 align="left">📍 What I'm working on:</h3>
 
